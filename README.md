@@ -7,7 +7,7 @@ Amount of pixelation is also changeable - just edit the .txt that is created by 
 ## Installation
 
 1. Install BepInEx (https://docs.bepinex.dev/articles/user_guide/installation/index.html)
-2. Download FilterRemover.dll
+2. Download FilterRemover.dll (https://github.com/oinkratpig/FilterRemover/releases)
 3. Place FilterRemover.dll into /BepInEx/plugins/
 
 (optional)
