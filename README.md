@@ -1,6 +1,5 @@
 # FilterRemover
-
-Removes the pixel filter.
+Mod for [Empty Shell](https://store.steampowered.com/app/2243110/EMPTY_SHELL/). Removes the pixel filter.
 
 Amount of pixelation is also changeable - just edit the .txt that is created by the mod (Same location as plugin).
 
